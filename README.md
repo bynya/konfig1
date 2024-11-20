@@ -29,3 +29,7 @@ zip. Эмулятор должен работать в режиме GUI.
 Все функции эмулятора должны быть покрыты тестами, а для каждой из
 поддерживаемых команд необходимо написать 2 теста.
 
+# Результаты тестирования
+![image](https://github.com/user-attachments/assets/72a7def7-7801-47ee-88b4-f7b617a87444)
+![image](https://github.com/user-attachments/assets/f2440b85-7c42-44b8-bbf9-403330ffc540)
+![image](https://github.com/user-attachments/assets/ae4f9b03-bb02-4ecb-ae2e-0f9b94612710)
